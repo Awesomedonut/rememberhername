@@ -100,7 +100,10 @@ export default async function MemorialPage({
             </a>{" "}
             at 1-800-799-7233.
           </p>
-          <p className="mt-6">
+          <p className="mt-6 font-medium text-zinc-700 dark:text-zinc-300">
+            This site is currently under construction.
+          </p>
+          <p className="mt-4">
             This page is a personal memorial. All information is sourced from
             credible, publicly available news reports and fact-checked to the
             best of my ability. If you are a family member or close friend and
