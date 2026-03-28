@@ -1,5 +1,17 @@
 [
   {
+    "id": "moe-harukawa",
+    "name": "Moe Harukawa",
+    "age": 21,
+    "location": "Tokyo",
+    "country": "Japan",
+    "date": "2026-03-27",
+    "type": "femicide",
+    "summary": "Stabbed to death at her workplace — Pokémon Center Mega Tokyo — by her ex-boyfriend, who she had reported for stalking. She had a restraining order. She did everything right.",
+    "story": "Moe Harukawa was a 21-year-old woman who worked at Pokémon Center Mega Tokyo in Ikebukuro. It was her dream job.\n\nHer ex-boyfriend, Taiki Hirokawa, 26, had been stalking her. She reported him in December. He was arrested for violating anti-stalking law. He was arrested again in January for voyeurism. A restraining order was issued. Police advised her to quit her job. She refused: \"It was my dream to work here.\"\n\nOn March 27, 2026, he came to her workplace and stabbed her multiple times in the neck. He then killed himself.\n\nShe reported him. He was arrested. Twice. A restraining order was issued. The system processed every piece of paper it knows how to process, and she is dead.",
+    "source": "https://www.japantimes.co.jp/news/2026/03/27/japan/crime-legal/woman-stabbed-by-ex-boyfriend-ikebukuro/"
+  },
+  {
     "id": "noelia-castillo-ramos",
     "name": "Noelia Castillo Ramos",
     "age": 25,
@@ -12,6 +24,30 @@
     "source": "https://en.wikipedia.org/wiki/Noelia_Castillo_euthanasia_case"
   },
   {
+    "id": "amy-doherty",
+    "name": "Amy Doherty",
+    "age": 28,
+    "location": "Derry",
+    "country": "Northern Ireland",
+    "date": "2026-03-21",
+    "type": "femicide",
+    "summary": "Died from injuries sustained on March 21, 2026. Connor McNamee, 30, was charged with her murder.",
+    "story": "Amy Doherty was a 28-year-old woman from Derry, Northern Ireland. She died from injuries sustained on March 21, 2026.\n\nConnor McNamee, 30, was charged with murder, possession of an offensive weapon, and possession of cocaine. He was remanded in custody.",
+    "source": "https://www.thejournal.ie/man-charged-with-murdering-amy-doherty-in-derry-due-before-court-6996722-Mar2026/"
+  },
+  {
+    "id": "kristina-joksimovic",
+    "name": "Kristina Joksimovic",
+    "age": 38,
+    "location": "Binningen",
+    "country": "Switzerland",
+    "date": "2024-02-01",
+    "type": "femicide",
+    "summary": "Former Miss Switzerland finalist. Strangled by her husband in their home, then dismembered. She was a mother of two.",
+    "story": "Kristina Joksimovic was a 38-year-old former Miss Switzerland finalist and mother of two daughters.\n\nIn February 2024, she was strangled by her husband in their home in Binningen, Switzerland. He then dismembered her body using a jigsaw, knife, and garden shears. Parts of her remains were pureed in an industrial blender and dissolved in chemical solutions.\n\nHe initially claimed he found her dead. Then he claimed self-defence. Forensic evidence contradicted both stories. He was watching YouTube videos as he dismembered her.",
+    "source": "https://www.ndtv.com/world-news/ex-miss-switzerland-finalist-kristina-joksimovic-chopped-pureed-husband-charged-with-murder-9789459"
+  },
+  {
     "id": "gisele-pelicot",
     "name": "Gisèle Pelicot",
     "age": 72,
@@ -22,5 +58,16 @@
     "summary": "Drugged by her husband for nearly a decade and raped by 72 strangers he recruited online. She waived her anonymity to demand a public trial, becoming a global symbol of courage.",
     "story": "Over nearly a decade from 2011 to 2020, Dominique Pelicot drugged his wife Gisèle with sedatives, rendering her unconscious. He then raped her himself and recruited strangers through online forums to come to their home and assault her. Gisèle was raped at least 92 times by 72 different men. She was entirely unaware throughout.\n\nThe crimes were discovered in September 2020 when Dominique was arrested at a supermarket for taking upskirt photographs. Police found hundreds of images and videos on his devices documenting years of assaults.\n\nThe trial began September 2, 2024, in Avignon. Gisèle made the extraordinary decision to waive her right to anonymity and demand a public trial so that, in her words, \"shame changes sides.\" Her courage drew worldwide attention and sparked a national reckoning in France over consent laws.\n\nOn December 19, 2024, all 51 defendants were found guilty. Dominique Pelicot received the maximum sentence of 20 years. The 50 co-defendants received 3 to 15 years.",
     "source": "https://en.wikipedia.org/wiki/Rapes_of_Gis%C3%A8le_Pelicot"
+  },
+  {
+    "id": "unnamed-manitoba-woman",
+    "name": "Unnamed Woman",
+    "location": "Manitoba",
+    "country": "Canada",
+    "date": "2007-01-01",
+    "type": "femicide",
+    "summary": "Killed in 2007. Her killer was not sentenced until 2026 — nineteen years later. He received 12 years.",
+    "story": "A woman was killed in Manitoba, Canada in 2007. Her name has not been publicly reported.\n\nHer killer was not sentenced until 2026 — nineteen years after her death. The judge described the crime as unforgivable. The sentence was 12 years.",
+    "source": "https://www.thecanadianpressnews.ca/prairies_bc/manitoba/man-sentenced-to-12-years-for-killing-manitoba-woman-in-2007/article_7ecbec16-bbfd-5802-9292-9d29c6023c8e.html"
   }
 ]
