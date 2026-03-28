@@ -8,9 +8,9 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Remember Her Name — A Memorial for Victims of Violence Against Women",
+  title: "Remember Her Name — A Memorial for Women Lost to Violence",
   description:
-    "A memorial honoring victims and survivors of violence against women. Their names deserve to be remembered.",
+    "A memorial honoring the women and girls lost to violence against women. Their names deserve to be remembered.",
 };
 
 export default function RootLayout({
